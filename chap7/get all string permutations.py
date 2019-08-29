@@ -1,4 +1,5 @@
 '''Design an algorithm to print all permutations of a string. For simplicity, assume all characters are unique.'''
+from itertools import permutations
 class Permutations:
     def factorial(self,n):
         if(n == 1):
@@ -50,7 +51,16 @@ class Permutations:
         print("String Permutations are: ",(",".join(s for s in strlist)))
         print("No of permutations are :",len(strlist))
 
+    def inbuiltFunc(self,str):
+        perm = permutations(str)
+        result = []
+        for perm in list(perm):
+            result.append((''.join(perm)))
+        result = sorted(list(set(result)))
+        print((",".join(s for s in result)))
 
 if __name__ == "__main__":
-    str = 'abcd'
+    str = 'abcc'
     Permutations().stringPermutations([str],len(str),0)
+    Permutations().inbuiltFunc(str)
+    #need to implement this using recursion

@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="1619654a-fad2-4a61-a33b-6e366e9d453b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chap7/get all string permutations.py" afterPath="$PROJECT_DIR$/chap7/get all string permutations.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chap7/string permutations.py" afterPath="$PROJECT_DIR$/chap7/string permutations.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chap7/swap arr min max.py" afterPath="$PROJECT_DIR$/chap7/swap arr min max.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -55,11 +57,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="get all string permutations.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="get all string permutations.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chap7/get all string permutations.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
-              <caret line="38" column="17" lean-forward="false" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
+            <state relative-caret-position="279">
+              <caret line="58" column="39" lean-forward="false" selection-start-line="58" selection-start-column="39" selection-end-line="58" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="print array pairs.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chap7/print array pairs.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="swap arr min max.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chap7/swap arr min max.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="string permutations.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chap7/string permutations.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="26" lean-forward="false" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -106,7 +138,9 @@
         <option value="$PROJECT_DIR$/chap7/compare bin to hex.py" />
         <option value="$PROJECT_DIR$/QuickSort.py" />
         <option value="$PROJECT_DIR$/chap7/find median in a random array.py" />
+        <option value="$PROJECT_DIR$/chap7/string permutations.py" />
         <option value="$PROJECT_DIR$/chap7/get all string permutations.py" />
+        <option value="$PROJECT_DIR$/chap7/swap arr min max.py" />
       </list>
     </option>
   </component>
@@ -169,24 +203,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.get all string permutations">
-    <configuration name="add 2 exp expressions" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="cracking the coding interview" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/add 2 exp expressions.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.swap arr min max">
     <configuration name="array intersection" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -255,20 +272,37 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <configuration name="swap arr min max" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chap7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="cracking the coding interview" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chap7/swap arr min max.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.add 2 exp expressions" />
-      <item index="1" class="java.lang.String" itemvalue="Python.array intersection" />
-      <item index="2" class="java.lang.String" itemvalue="Python.compare bin to hex" />
-      <item index="3" class="java.lang.String" itemvalue="Python.find median in a random array" />
-      <item index="4" class="java.lang.String" itemvalue="Python.get all string permutations" />
+      <item index="0" class="java.lang.String" itemvalue="Python.array intersection" />
+      <item index="1" class="java.lang.String" itemvalue="Python.compare bin to hex" />
+      <item index="2" class="java.lang.String" itemvalue="Python.find median in a random array" />
+      <item index="3" class="java.lang.String" itemvalue="Python.get all string permutations" />
+      <item index="4" class="java.lang.String" itemvalue="Python.swap arr min max" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.get all string permutations" />
-        <item index="1" class="java.lang.String" itemvalue="Python.find median in a random array" />
-        <item index="2" class="java.lang.String" itemvalue="Python.compare bin to hex" />
-        <item index="3" class="java.lang.String" itemvalue="Python.array intersection" />
-        <item index="4" class="java.lang.String" itemvalue="Python.add 2 exp expressions" />
+        <item index="0" class="java.lang.String" itemvalue="Python.swap arr min max" />
+        <item index="1" class="java.lang.String" itemvalue="Python.get all string permutations" />
+        <item index="2" class="java.lang.String" itemvalue="Python.find median in a random array" />
+        <item index="3" class="java.lang.String" itemvalue="Python.compare bin to hex" />
+        <item index="4" class="java.lang.String" itemvalue="Python.array intersection" />
       </list>
     </recent_temporary>
   </component>
@@ -293,7 +327,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="LuaJ" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29652998" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29652998" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -318,7 +352,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/chap7/get all string permutations.py</url>
-          <line>36</line>
+          <line>37</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
@@ -444,10 +478,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/chap7/string permutations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="26" lean-forward="false" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/chap7/get all string permutations.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="38" column="17" lean-forward="false" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
+        <state relative-caret-position="279">
+          <caret line="58" column="39" lean-forward="false" selection-start-line="58" selection-start-column="39" selection-end-line="58" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap7/print array pairs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap7/swap arr min max.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
           <folding />
         </state>
       </provider>
