@@ -5,7 +5,7 @@ class SwapMinMax:
         i,j= arr.index(min(arr)),arr.index(max(arr))
         arr[i],arr[j]=arr[j],arr[i]
         print("array after swap: ", arr)
-        
+
 if __name__ == "__main__":
-    arr = [5,3,4,1,2]
+    arr = [5,3,4,1,-2]
     SwapMinMax().solution1(arr)
