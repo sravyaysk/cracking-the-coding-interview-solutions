@@ -10,7 +10,7 @@ def method2(n):
             return
         if (p > q):
             return
-        
+
         i = s + "("
         j = s + ")"
         gen(p - 1, q, i)
